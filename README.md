@@ -1,4 +1,4 @@
-# koa app with thpescript
+# koa app with typescript
 
 ## step1
 
