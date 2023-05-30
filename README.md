@@ -21,7 +21,6 @@ DB_USER=xxx
 DB_PASS=xxx
 DB_DATABASE=xxx
 DB_TIMEZONE="08:00"
-ROOT_PASS=xxx
 
 
 ```
